@@ -1,0 +1,19 @@
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+C:/Ruby-on-Windows/3.2.2-1/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-q06ifg sitelibdir\=./.gem.20240704-49540-q06ifg clean
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-q06ifg sitelibdir\=./.gem.20240704-49540-q06ifg
+generating bootsnap-x64-mingw-ucrt.def
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-q06ifg sitelibdir\=./.gem.20240704-49540-q06ifg install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20240704-49540-q06ifg/bootsnap
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-q06ifg sitelibdir\=./.gem.20240704-49540-q06ifg clean

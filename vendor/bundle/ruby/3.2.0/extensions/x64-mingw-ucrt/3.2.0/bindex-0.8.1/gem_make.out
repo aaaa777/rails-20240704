@@ -1,0 +1,19 @@
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+C:/Ruby-on-Windows/3.2.2-1/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-1ahdra sitelibdir\=./.gem.20240704-49540-1ahdra clean
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-1ahdra sitelibdir\=./.gem.20240704-49540-1ahdra
+generating cruby-x64-mingw-ucrt.def
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-1ahdra sitelibdir\=./.gem.20240704-49540-1ahdra install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20240704-49540-1ahdra/skiptrace/internal
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-1ahdra sitelibdir\=./.gem.20240704-49540-1ahdra clean

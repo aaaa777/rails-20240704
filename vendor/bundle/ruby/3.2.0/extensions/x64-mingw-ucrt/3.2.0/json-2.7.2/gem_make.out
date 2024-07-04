@@ -1,0 +1,16 @@
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+C:/Ruby-on-Windows/3.2.2-1/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-mq7qyk sitelibdir\=./.gem.20240704-49540-mq7qyk clean
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-mq7qyk sitelibdir\=./.gem.20240704-49540-mq7qyk
+make: 'all' に対して行うべき事はありません.
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-mq7qyk sitelibdir\=./.gem.20240704-49540-mq7qyk install
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-mq7qyk sitelibdir\=./.gem.20240704-49540-mq7qyk clean

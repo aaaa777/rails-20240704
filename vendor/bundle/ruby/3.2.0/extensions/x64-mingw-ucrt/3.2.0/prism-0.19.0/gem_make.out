@@ -1,0 +1,47 @@
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/prism-0.19.0/ext/prism
+C:/Ruby-on-Windows/3.2.2-1/bin/ruby.exe extconf.rb
+checking for prism.h in C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/prism-0.19.0/include... yes
+checking for prism/extension.h in C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/prism-0.19.0/ext... yes
+checking for whether -fvisibility=hidden is accepted as CFLAGS... yes
+compiling build/static/diagnostic.o
+compiling build/static/encoding.o
+compiling build/static/node.o
+compiling build/static/options.o
+compiling build/static/pack.o
+compiling build/static/prettyprint.o
+compiling build/static/prism.o
+compiling build/static/regexp.o
+compiling build/static/serialize.o
+compiling build/static/token_type.o
+compiling build/static/util/pm_buffer.o
+compiling build/static/util/pm_char.o
+compiling build/static/util/pm_constant_pool.o
+compiling build/static/util/pm_list.o
+compiling build/static/util/pm_memchr.o
+compiling build/static/util/pm_newline_list.o
+compiling build/static/util/pm_state_stack.o
+compiling build/static/util/pm_string.o
+compiling build/static/util/pm_string_list.o
+compiling build/static/util/pm_strncasecmp.o
+compiling build/static/util/pm_strpbrk.o
+building build/libprism.a
+C:\Ruby-on-Windows\msys64\ucrt64\bin\ar.exe: creating build/libprism.a
+creating Makefile
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/prism-0.19.0/ext/prism
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-axo51i sitelibdir\=./.gem.20240704-49540-axo51i clean
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/prism-0.19.0/ext/prism
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-axo51i sitelibdir\=./.gem.20240704-49540-axo51i
+generating prism-x64-mingw-ucrt.def
+compiling api_node.c
+compiling api_pack.c
+compiling extension.c
+linking shared-object prism/prism.so
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/prism-0.19.0/ext/prism
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-axo51i sitelibdir\=./.gem.20240704-49540-axo51i install
+/usr/bin/install -c -m 0755 prism.so ./.gem.20240704-49540-axo51i/prism
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/prism-0.19.0/ext/prism
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-axo51i sitelibdir\=./.gem.20240704-49540-axo51i clean

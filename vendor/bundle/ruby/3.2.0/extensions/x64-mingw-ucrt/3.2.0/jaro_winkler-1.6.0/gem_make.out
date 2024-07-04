@@ -1,0 +1,22 @@
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/jaro_winkler-1.6.0/ext/jaro_winkler
+C:/Ruby-on-Windows/3.2.2-1/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/jaro_winkler-1.6.0/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-y4grb3 sitelibdir\=./.gem.20240704-49540-y4grb3 clean
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/jaro_winkler-1.6.0/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-y4grb3 sitelibdir\=./.gem.20240704-49540-y4grb3
+generating jaro_winkler_ext-x64-mingw-ucrt.def
+compiling adj_matrix.c
+compiling codepoints.c
+compiling jaro.c
+compiling jaro_winkler.c
+linking shared-object jaro_winkler/jaro_winkler_ext.so
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/jaro_winkler-1.6.0/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-y4grb3 sitelibdir\=./.gem.20240704-49540-y4grb3 install
+/usr/bin/install -c -m 0755 jaro_winkler_ext.so ./.gem.20240704-49540-y4grb3/jaro_winkler
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/jaro_winkler-1.6.0/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-y4grb3 sitelibdir\=./.gem.20240704-49540-y4grb3 clean

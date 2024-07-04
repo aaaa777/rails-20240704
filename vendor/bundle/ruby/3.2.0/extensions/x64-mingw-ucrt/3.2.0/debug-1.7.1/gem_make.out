@@ -1,0 +1,20 @@
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/debug-1.7.1/ext/debug
+C:/Ruby-on-Windows/3.2.2-1/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-bsqkvj sitelibdir\=./.gem.20240704-49540-bsqkvj clean
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-bsqkvj sitelibdir\=./.gem.20240704-49540-bsqkvj
+generating debug-x64-mingw-ucrt.def
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-bsqkvj sitelibdir\=./.gem.20240704-49540-bsqkvj install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20240704-49540-bsqkvj/debug
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-bsqkvj sitelibdir\=./.gem.20240704-49540-bsqkvj clean

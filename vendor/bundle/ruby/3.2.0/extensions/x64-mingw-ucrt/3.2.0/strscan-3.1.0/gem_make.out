@@ -1,0 +1,21 @@
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+C:/Ruby-on-Windows/3.2.2-1/bin/ruby.exe extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... no
+creating Makefile
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-bil7ns sitelibdir\=./.gem.20240704-49540-bil7ns clean
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-bil7ns sitelibdir\=./.gem.20240704-49540-bil7ns
+generating strscan-x64-mingw-ucrt.def
+compiling strscan.c
+linking shared-object strscan.so
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-bil7ns sitelibdir\=./.gem.20240704-49540-bil7ns install
+/usr/bin/install -c -m 0755 strscan.so ./.gem.20240704-49540-bil7ns
+
+current directory: C:/Users/a774n/Documents/repo/rails-20240704/vendor/bundle/ruby/3.2.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240704-49540-bil7ns sitelibdir\=./.gem.20240704-49540-bil7ns clean
